@@ -7,7 +7,7 @@ terminar os endpoints e testar
 Desenvolva um aplicativo para gerenciamento de tarefas.
 
 check-list:
-[] - Entender a atividade, isso envolve ver a atividade
+[] - Entender a atividade, isso envolve ver a atividade 
 [x] - Instalar as dependências
 [] - Opcional - Criar um dockerfile e um docker-compose.yml pra criar o container do banco escolhido
 [x] - Criar as entidades
